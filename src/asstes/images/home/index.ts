@@ -1,0 +1,35 @@
+export { default as logo_meetaza } from "./logo.png";
+export { default as hero } from "./icon-hero.png";
+export { default as cover_software } from "./softw_deleop.png";
+export { default as cover_network } from "./cover-network.png";
+export { default as number_30 } from "./special_dev_30.png";
+export { default as number_exper } from "./Experienced_15.png";
+export { default as number_products } from "./20.png";
+export { default as number_exper_staff } from "./exper_staff_19.png";
+export { default as icon_shape } from "./shape_1.png";
+export { default as icon_shape_2 } from "./shape_2.png";
+export { default as map } from "./map.png";
+export { default as iconArrow } from "./arrow-down.png";
+export { default as iconMenu } from "./menu.svg";
+export { default as iconClose } from "./close.svg";
+
+// logo Client
+export { default as client_1 } from "./logo-client/1.png";
+export { default as client_2 } from "./logo-client/2.png";
+export { default as client_3 } from "./logo-client/3.png";
+export { default as client_4 } from "./logo-client/4.png";
+export { default as client_5 } from "./logo-client/5.png";
+export { default as client_6 } from "./logo-client/6.png";
+export { default as client_7 } from "./logo-client/7.png";
+export { default as client_8 } from "./logo-client/8.png";
+export { default as client_9 } from "./logo-client/9.png";
+export { default as client_10 } from "./logo-client/10.png";
+export { default as client_11 } from "./logo-client/11.png";
+export { default as client_12 } from "./logo-client/12.png";
+export { default as client_13 } from "./logo-client/13.png";
+export { default as client_14 } from "./logo-client/14.png";
+export { default as client_15 } from "./logo-client/15.png";
+export { default as client_16 } from "./logo-client/16.png";
+export { default as client_17 } from "./logo-client/17.png";
+export { default as client_18 } from "./logo-client/18.png";
+export { default as client_19 } from "./logo-client/19.png";

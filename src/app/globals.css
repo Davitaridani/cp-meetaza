@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.container {
+  max-width: 1360px;
+  padding: 0 20px;
+  margin: auto;
+}
+
+::selection {
+  background-color: #f4a433;
+  color: #fff;
+}
+
+@layer base {
+  h1 {
+    @apply lg:text-5xl text-3xl font-semibold tracking-tighter;
+  }
+  p {
+    @apply font-normal;
+  }
+}
+
+@layer components {
+  .items_row {
+    @apply md:flex flex-row;
+  }
+  .items_center {
+    @apply md:flex items-center;
+  }
+  .text_paragraf {
+    @apply text-lightGray lg:text-xl md:text-lg text-base text-justify md:tracking-tight;
+  }
+}
